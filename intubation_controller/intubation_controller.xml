@@ -1,0 +1,8 @@
+<library path="intubation_controller">
+    <class name="intubation_controller/CartesianImpedanceController"
+           type="intubation_controller::CartesianImpedanceController" base_class_type="controller_interface::ControllerInterface">
+        <description>
+            A cartesian impedance controller.
+        </description>
+    </class>
+</library>
